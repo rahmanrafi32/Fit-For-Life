@@ -1,0 +1,13 @@
+.testimonials .card {
+  border-color: lightgray;
+}
+
+.testimonials .card .card-footer {
+  background: transparent;
+  border: 0;
+}
+
+.testimonials .card:hover {
+  transform: translateY(20px);
+  transition: 0.5s;
+}

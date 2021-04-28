@@ -1,0 +1,8 @@
+.trainer .card {
+  border-color: transparent;
+}
+
+.trainer .card:hover {
+  transform: translateY(-20px);
+  transition: 0.5s;
+}
